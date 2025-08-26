@@ -10,6 +10,12 @@ microfiltration/microfiltration.pdf
 •	T. Darvishzadeh and N. V. Priezjev, “Effects of crossflow velocity and transmembrane pres-sure on microfiltration of oil-in-water emulsions”, Journal of Membrane Science 423–424, 468–476 (2012). https://doi.org/10.1016/j.memsci.2012.08.043
 
 microfiltration/Darvishzadeh_grad.msu_PhDthesis.pdf
-•	Tohid Darvishzadeh. Thesis title: “Numerical Simulation of Microfiltration of Oil-in-Water Emulsions”. PPT thesis presentation. Ph.D. Spring 2014, Michigan State University. 
+•	Tohid Darvishzadeh. PhD thesis title: “Numerical Simulation of Microfiltration of Oil-in-Water Emulsions”. Ph.D. Spring 2014, Michigan State University. 
+
+microfiltration/Tohid_presentation.pdf
+•	Tohid Darvishzadeh. PhD thesis title: “Numerical Simulation of Microfiltration of Oil-in-Water Emulsions”. PPT thesis presentation.
+
+
+
 
 

@@ -1,4 +1,4 @@
-# microfiltration of oil-water emulsions
+# Microfiltration of Oil-Water Emulsions
 
 microfiltration/slotted_pore.pdf
 •	T. Darvishzadeh, B. Bhattarai, N. V. Priezjev, “The critical pressure for microfiltration of oil-in-water emulsions using slotted-pore membranes”, Journal of Membrane Science 563, 610-616 (2018). https://doi.org/10.1016/j.memsci.2018.06.020
